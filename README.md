@@ -10,7 +10,7 @@ Kullanım şekli: cd Klasör_Adı
 ```
 cd Belgelerim
 ```
-[CD Ekran görüntüsü](Resimler\cd.png)
+![CD Ekran görüntüsü](Resimler/cd.png)
 
 ## Dosya Taşıma ve Kopyalama Komutları
 
