@@ -7,7 +7,7 @@ Bu projede en çok kullanılan linux komutlarına yer verilmiştir.
 #### CD komutu
 Bu komut klasöre girmek için kullanılır <br>
 Kullanım şekli: `cd Klasör_Adı`
-```
+```shell
 cd Belgelerim
 ```
 ![CD Ekran görüntüsü](Resimler/cd.png)
